@@ -1,0 +1,16 @@
+gridHight;0.1;;
+gridLength;0.1;;
+nodeNumberHight;4;;
+nodeNumberLength;4;;
+initialTemperature;100;;
+ambientTemperature;1200;;
+conductivity;25;;
+intergrationPoint;0.577350269;;
+pointCount;4;;
+density;7800;;
+specificHeat;700;;
+convection;300;;
+dTau;50;;
+simulationTime;500;;
+0;0.025;0.025;0
+0;0;0.025;0.025
